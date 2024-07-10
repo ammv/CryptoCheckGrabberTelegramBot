@@ -1,0 +1,5 @@
+TelegramApi:
+  api_id: 12345
+  api_hash: 1234567812345678
+  phone_number: !!str 123456789
+  password: !!str 123456789

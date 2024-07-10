@@ -167,5 +167,5 @@ cython_debug/
 *.log
 *.session
 *.session-journal
-config.yml
+real_config.yml
 >>>>>>> 9a2af4d (Add gitignore)
